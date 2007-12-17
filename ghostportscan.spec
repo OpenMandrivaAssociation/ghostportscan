@@ -12,7 +12,6 @@ URL:		http://gps.sourceforge.net
 License:	GPL
 BuildRequires:  libpcap-devel
 BuildRequires:	libnet1.0.2-devel
-BuildRoot:	%{_tmppath}/%{name}-root
 
 %description
 The aim of Ghost Port Scan is to provide administrators
