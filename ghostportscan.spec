@@ -1,6 +1,6 @@
 %define name ghostportscan
 %define version 0.9.3
-%define release %mkrel 8
+%define release %mkrel 10
 
 Summary:	Ghost Port Scan Tool
 Name:		%{name}
