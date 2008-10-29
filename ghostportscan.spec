@@ -1,6 +1,6 @@
 %define name ghostportscan
 %define version 0.9.3
-%define release %mkrel 10
+%define release %mkrel 11
 
 Summary:	Ghost Port Scan Tool
 Name:		%{name}
@@ -12,7 +12,7 @@ URL:		http://gps.sourceforge.net
 License:	GPL
 BuildRequires:  libpcap-devel
 BuildRequires:	libnet1.0.2-devel
-BuildRoot:	%{_tmppath}/%{name}-root
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 The aim of Ghost Port Scan is to provide administrators
