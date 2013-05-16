@@ -7,7 +7,7 @@ Source:		http://gps.sourceforge.net/release/gps-%{version}-FRC.tar.bz2
 URL:		http://gps.sourceforge.net
 License:	GPL
 BuildRequires:  pcap-devel
-BuildRequires:	libnet1.0.2-devel
+BuildRequires:	net1.0.2-devel = 1.0.2a-17
 
 %description
 The aim of Ghost Port Scan is to provide administrators
