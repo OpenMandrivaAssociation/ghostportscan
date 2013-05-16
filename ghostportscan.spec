@@ -1,7 +1,7 @@
 Summary:	Ghost Port Scan Tool
 Name:		ghostportscan
 Version:	0.9.3
-Release:	12
+Release:	13
 Group:		Networking/Other
 Source:		http://gps.sourceforge.net/release/gps-%{version}-FRC.tar.bz2
 URL:		http://gps.sourceforge.net
