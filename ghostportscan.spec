@@ -4,7 +4,7 @@ Version:	0.9.3
 Release:	13
 Group:		Networking/Other
 Source:		http://gps.sourceforge.net/release/gps-%{version}-FRC.tar.bz2
-URL:		http://gps.sourceforge.net
+URL:		https://gps.sourceforge.net
 License:	GPL
 BuildRequires:  pcap-devel
 BuildRequires:	net1.0.2-devel = 1.0.2a-17
