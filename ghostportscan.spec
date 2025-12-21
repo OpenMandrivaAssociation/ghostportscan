@@ -6,6 +6,11 @@ Group:		Networking/Other
 Source:		http://gps.sourceforge.net/release/gps-%{version}-FRC.tar.bz2
 URL:		https://gps.sourceforge.net
 License:	GPL
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:  pcap-devel
 BuildRequires:	net1.0.2-devel = 1.0.2a-17
 
